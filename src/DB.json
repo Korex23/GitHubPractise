@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "image": "../images/image3.jpg",
+      "title": "Product 1",
+      "price": 2000
+    },
+
+    {
+      "image": "../images/image3.jpg",
+      "title": "Product 2",
+      "price": 2000
+    },
+    {
+      "image": "../images/image3.jpg",
+      "title": "Product 3",
+      "price": 2000
+    },
+    {
+      "image": "../images/image3.jpg",
+      "title": "Product 4",
+      "price": 2000
+    }
+  ],
+
+  "learners1": [
+    {
+      "images": "../images/image3.jpg",
+      "text": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, mollitia nihil perferendis quidem sequi officia, nam ex neque repellendus placeat ipsum, officiis quos hic. Repudiandae voluptates, laborum rem neque aut sapiente consequatur quae. Sequi iste quam harum corrupti, voluptates, veritatis nihil voluptatum suscipit culpa ex necessitatibus ipsa error vero repudiandae!"
+    },
+    {
+      "images": "../images/image3.jpg",
+      "text": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, mollitia nihil perferendis quidem sequi officia, nam ex neque repellendus placeat ipsum, officiis quos hic. Repudiandae voluptates, laborum rem neque aut sapiente consequatur quae. Sequi iste quam harum corrupti, voluptates, veritatis nihil voluptatum suscipit culpa ex necessitatibus ipsa error vero repudiandae!"
+    },
+    {
+      "images": "../images/image3.jpg",
+      "text": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, mollitia nihil perferendis quidem sequi officia, nam ex neque repellendus placeat ipsum, officiis quos hic. Repudiandae voluptates, laborum rem neque aut sapiente consequatur quae. Sequi iste quam harum corrupti, voluptates, veritatis nihil voluptatum suscipit culpa ex necessitatibus ipsa error vero repudiandae!"
+    }
+  ],
+
+  "learners2": [
+    {
+      "image": "../images/image3.jpg",
+      "title": "Article Title",
+      "text": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, mollitia nihil perferendis quidem sequi officia, nam ex neque repellendus placeat ipsum, officiis quos hic. Repudiandae voluptates, laborum rem neque aut sapiente consequatur quae. Sequi iste quam harum corrupti, voluptates, veritatis nihil voluptatum suscipit culpa ex necessitatibus ipsa error vero repudiandae!"
+    },
+    {
+      "image": "../images/image3.jpg",
+      "title": "Article Title",
+      "text": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, mollitia nihil perferendis quidem sequi officia, nam ex neque repellendus placeat ipsum, officiis quos hic. Repudiandae voluptates, laborum rem neque aut sapiente consequatur quae. Sequi iste quam harum corrupti, voluptates, veritatis nihil voluptatum suscipit culpa ex necessitatibus ipsa error vero repudiandae!"
+    },
+    {
+      "image": "../images/image3.jpg",
+      "title": "Article Title",
+      "text": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, mollitia nihil perferendis quidem sequi officia, nam ex neque repellendus placeat ipsum, officiis quos hic. Repudiandae voluptates, laborum rem neque aut sapiente consequatur quae. Sequi iste quam harum corrupti, voluptates, veritatis nihil voluptatum suscipit culpa ex necessitatibus ipsa error vero repudiandae!"
+    }
+  ]
+}
